@@ -1,0 +1,9 @@
+nutch-site.xml
+schema.xml
+schema-solr4.xml
+webpage.avsc
+seed.txt
+/conf/*
+/build/*
+/runtime/*
+/docs/*
